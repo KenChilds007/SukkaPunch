@@ -1,11 +1,17 @@
 using UnityEngine;
-
+using UnityEngine.InputSystem;
 public abstract class StateNode : MonoBehaviour
 {
     protected StateMachine stateMachine;
-
+    protected Animator animator;
+    protected PlayerInput playerInput;
     public bool IsCurrentState => stateMachine != null && stateMachine.CurrentState == this;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+    protected virtual void Awake()
+    {
+        animator = GetComponent<Animator>();
+        playerInput = GetComponent<PlayerInput>();
+    }
     public void Initialize(StateMachine machine)
     {
         stateMachine = machine;

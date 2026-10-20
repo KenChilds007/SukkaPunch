@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class PlayerCrouch : Player
 {
+    /*
     private bool isCrouching;
     PlayerWalk playerWalk;
 
@@ -22,4 +23,5 @@ public class PlayerCrouch : Player
         animator.SetBool("isCrouching", isCrouching);
         playerWalk.speed = isCrouching ? 0f: GameParameters.PlayerSpeed;
     }
+    */
 }

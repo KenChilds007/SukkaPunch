@@ -1,6 +1,5 @@
 using UnityEngine;
 using System;
-using Unity.VisualScripting;
 
 public class StateMachine : MonoBehaviour
 {
@@ -50,7 +49,7 @@ public class StateMachine : MonoBehaviour
         if (loggingEnabled)
         {
             string stateName = oldState == null ? "null state": oldState.GetType().ToString();
-            Debug.Log($"Entering{stateName}.");
+            Debug.Log($"Exiting{stateName}.");
         }
 
         currentState = newState;
@@ -60,6 +59,16 @@ public class StateMachine : MonoBehaviour
             string stateName = newState == null ? "null state": newState.GetType().ToString();
             Debug.Log($"Entering{stateName}.");
         }
-        OnStateChange?.Invoke(currentState, newState);
+        OnStateChange?.Invoke(oldState, currentState);
+    }
+
+    public T GetState<T>() where T : StateNode
+    {
+        foreach (StateNode state in states)
+        {
+            if(state is T match) return match;
+        }
+
+        return null;
     }
 }

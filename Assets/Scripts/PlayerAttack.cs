@@ -3,6 +3,7 @@ using System.Collections;
 
 public class PlayerAttack : Player
 {
+    /*
     private int currentAttack;
     public AnimationClip jab;
     private float jabLength;
@@ -42,4 +43,5 @@ public class PlayerAttack : Player
         animator.SetInteger("StandingAttack",1);
         StartCoroutine(EndAttackTimer(jab.length));
     }
+    */
 }

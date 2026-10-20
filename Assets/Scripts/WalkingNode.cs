@@ -1,22 +1,17 @@
 using UnityEngine;
-using UnityEngine.InputSystem;
 public class WalkingNode : StateNode
 {
     public float speed = GameParameters.PlayerSpeed;
     
     private Rigidbody2D rigidbody2D;
 
-    private Animator animator;
-    private PlayerInput playerInput;
-
     private float moveDir;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    private void Start()
+    private void Awake()
     {
+        base.Awake();
         rigidbody2D = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
-        playerInput = GetComponent<PlayerInput>();
     }
     public override void Enter()
     {
@@ -33,10 +28,16 @@ public class WalkingNode : StateNode
     {
         if (!IsCurrentState) return;
         
+        if (playerInput.actions["VerticalMovement"].ReadValue<float>() < 0f)
+        {
+            stateMachine.SetState(stateMachine.GetState<CrouchingNode>());
+            return;
+        }
+        
         moveDir = playerInput.actions["LateralMovement"].ReadValue<float>();
         if (moveDir == 0f)
         {
-            stateMachine.SetState(stateMachine.States[0]);
+            stateMachine.SetState(stateMachine.GetState<IdleNode>());
         }
     }
 

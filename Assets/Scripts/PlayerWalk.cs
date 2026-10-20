@@ -1,6 +1,7 @@
 using UnityEngine;
 public class PlayerWalk : Player
 {
+    /*
     private bool isWalking = false;
     public float speed = GameParameters.PlayerSpeed;
 
@@ -32,5 +33,6 @@ public class PlayerWalk : Player
         Vector2 velocity = new Vector2(moveDir * speed, 0f);
         rigidbody2D.MovePosition(rigidbody2D.position + velocity * Time.fixedDeltaTime);
     }
+    */
     
 }

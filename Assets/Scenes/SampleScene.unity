@@ -612,11 +612,13 @@ GameObject:
   - component: {fileID: 666270711}
   - component: {fileID: 666270710}
   - component: {fileID: 666270713}
-  - component: {fileID: 666270715}
   - component: {fileID: 666270714}
-  - component: {fileID: 666270716}
   - component: {fileID: 666270717}
-  - component: {fileID: 666270718}
+  - component: {fileID: 666270720}
+  - component: {fileID: 666270719}
+  - component: {fileID: 666270722}
+  - component: {fileID: 666270721}
+  - component: {fileID: 666270723}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -639,7 +641,7 @@ Rigidbody2D:
   m_Mass: 50
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 9.8
+  m_GravityScale: 4
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -778,35 +780,6 @@ MonoBehaviour:
   m_DefaultActionMap: 
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
---- !u!114 &666270715
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 666270708}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b7ab8949ae7345f8b22ae46828250f9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerWalk
-  target: {fileID: 1805199666}
-  playerInput: {fileID: 666270714}
-  speed: 5
---- !u!114 &666270716
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 666270708}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a4097374ed13148e381f31ef2506b6a8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerCrouch
-  target: {fileID: 0}
-  playerInput: {fileID: 0}
 --- !u!70 &666270717
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -844,7 +817,7 @@ CapsuleCollider2D:
   m_Offset: {x: 0.0075040744, y: 0.5213628}
   m_Size: {x: 0.30742222, y: 0.8172748}
   m_Direction: 0
---- !u!114 &666270718
+--- !u!114 &666270719
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -853,13 +826,65 @@ MonoBehaviour:
   m_GameObject: {fileID: 666270708}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 82cfc722db5e1487680d1918a4c52e79, type: 3}
+  m_Script: {fileID: 11500000, guid: c4b22173275334e5e98a2d50a3f5a907, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerAttack
-  target: {fileID: 0}
-  playerInput: {fileID: 0}
-  jab: {fileID: 7400000, guid: caa359315ac994dfb8c4ffcac45a4d0e, type: 2}
-  hitBox: {fileID: 1193424620}
+  m_EditorClassIdentifier: Assembly-CSharp::StateMachine
+  enterFirstStateOnStart: 1
+  loggingEnabled: 1
+  states:
+  - {fileID: 666270721}
+  - {fileID: 666270722}
+  - {fileID: 666270723}
+--- !u!114 &666270720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 666270708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ee5e5e8a459b4ab99e0ea17b621c962, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Player
+  target: {fileID: 1805199666}
+--- !u!114 &666270721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 666270708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25689c5d5aba24b7ba09f43b6456fd0e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IdleNode
+--- !u!114 &666270722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 666270708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b12e7e6bd71e54b4487afe3f127fbd7a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WalkingNode
+  speed: 5
+--- !u!114 &666270723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 666270708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5b5d44ff988747638079e54bdea3f98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CrouchingNode
 --- !u!1 &838063231
 GameObject:
   m_ObjectHideFlags: 0
@@ -988,7 +1013,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1193424619
 Transform:
   m_ObjectHideFlags: 0
