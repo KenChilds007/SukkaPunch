@@ -1,7 +1,16 @@
 using UnityEngine;
 
-public class AttackingNode : MonoBehaviour
+public class AttackingNode : StateNode
 {
+    public override void Enter()
+    {
+        
+    }
+
+    public override void Exit()
+    {
+        
+    }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {

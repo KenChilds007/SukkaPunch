@@ -33,6 +33,11 @@ public class WalkingNode : StateNode
             stateMachine.SetState(stateMachine.GetState<CrouchingNode>());
             return;
         }
+        if (playerInput.actions["VerticalMovement"].ReadValue<float>() > 0f)
+        {
+            stateMachine.SetState(stateMachine.GetState<JumpingNode>());
+            return;
+        }
         
         moveDir = playerInput.actions["LateralMovement"].ReadValue<float>();
         if (moveDir == 0f)

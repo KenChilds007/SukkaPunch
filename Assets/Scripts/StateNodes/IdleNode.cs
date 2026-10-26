@@ -19,6 +19,12 @@ public class IdleNode : StateNode
             return;
         }
         
+        if (playerInput.actions["VerticalMovement"].ReadValue<float>() > 0f)
+        {
+            stateMachine.SetState(stateMachine.GetState<JumpingNode>());
+            return;
+        }
+        
         float moveDir = playerInput.actions["LateralMovement"].ReadValue<float>();
         if (moveDir != 0f)
         {
