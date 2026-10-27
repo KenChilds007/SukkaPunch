@@ -1,17 +1,17 @@
+using System;
 using UnityEngine;
 
 public class JumpingNode : StateNode
 {
-    [Range(0f, 1f)]
-    [SerializeField] private float freezeNormalizedTime = 0.5f;
     [SerializeField] private GameObject groundShadow;
-    [SerializeField] private float jumpSpeed = GameParameters.JumpSpeed;
-    [SerializeField] private float landTolerance = 0.02f;
+    private float jumpSpeed = GameParameters.JumpSpeed;
+    private float landTolerance = GameParameters.LandTolerance;
+    
+    private static readonly int JumpAnimHash = Animator.StringToHash("BoxingJump");
     
     private Rigidbody2D rigidbody2D;
     private float groundYOnJump;
     private float lockedJumpDir;
-    private bool frozen;
     
     protected override void Awake()
     {
@@ -21,8 +21,7 @@ public class JumpingNode : StateNode
 
     public override void Enter()
     {
-        animator.speed = 1f;
-        frozen = false;
+        
         animator.SetBool("isJumping",true);
         groundShadow.SetActive(true);
         
@@ -32,6 +31,9 @@ public class JumpingNode : StateNode
         lockedJumpDir = direction * stateMachine.GetState<WalkingNode>().speed;
         
         rigidbody2D.linearVelocity = new Vector2(0f, jumpSpeed);
+
+        animator.speed = 0f;
+        animator.Play(JumpAnimHash, 0, 0f);
     }
 
     public override void Exit()
@@ -46,15 +48,24 @@ public class JumpingNode : StateNode
     // Update is called once per frame
     private void Update()
     {
-        if (!IsCurrentState || frozen) return;
-        
-        AnimatorStateInfo animInfo = animator.GetCurrentAnimatorStateInfo(0);
-        if (animInfo.IsName("BoxingJump") && animInfo.normalizedTime >= freezeNormalizedTime)
+        if (!IsCurrentState) return;
+        float velY = rigidbody2D.linearVelocity.y;
+        float normalizedT;
+        if (velY > 0f)
         {
-            animator.Play("BoxingJump", 0, freezeNormalizedTime);
-            animator.speed = 0f;
-            frozen = true;
+            normalizedT = Mathf.Lerp(0f, 0.5f, 1f - (velY / jumpSpeed));
         }
+        else
+        {
+            float apexHeight = (jumpSpeed * jumpSpeed) / (2f * Math.Abs(Physics2D.gravity.y * rigidbody2D.gravityScale));
+            float height = Mathf.Max(0f, rigidbody2D.position.y - groundYOnJump);
+            normalizedT = Mathf.Lerp(1f, 0.5f, Mathf.Clamp01(height / apexHeight));
+        }
+        
+        animator.Play(JumpAnimHash, 0, Mathf.Clamp01(normalizedT));
+        animator.Update(0f);
+
+
     }
 
     private void FixedUpdate()
