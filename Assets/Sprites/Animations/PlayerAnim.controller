@@ -103,7 +103,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: caa359315ac994dfb8c4ffcac45a4d0e, type: 2}
+  m_Motion: {fileID: 7400000, guid: cd32c9a5784174c22906a7dcef4fb420, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -211,7 +211,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: e332de98fda314c78b03950616d94a92, type: 2}
+  m_Motion: {fileID: 7400000, guid: 7f1e39e7e21154524867f8ad2f8b30c0, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -422,7 +422,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 38f121a06cb80452386ce9c0bc1a3b51, type: 2}
+  m_Motion: {fileID: 7400000, guid: 31494ce65ca284ded952f4621e8e51ea, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -452,7 +452,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: f61f9051361bd4e3fb545a6878fd23c4, type: 2}
+  m_Motion: {fileID: 7400000, guid: 831cf78ce46534cd29e84590f28ab974, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -569,7 +569,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: BoxingCrouch
-  m_Speed: 1
+  m_Speed: 3.5
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -2784032769031738654}
@@ -583,7 +583,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 2669d46bcb5a54185854904787682c31, type: 2}
+  m_Motion: {fileID: 7400000, guid: 670d1705409c346078a833df724ca582, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 

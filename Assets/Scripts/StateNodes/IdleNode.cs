@@ -12,7 +12,7 @@ public class IdleNode : StateNode
     void Update()
     {
         if (!IsCurrentState) return;
-        
+        //Basic Locomotion//
         if (playerInput.actions["VerticalMovement"].ReadValue<float>() < 0f)
         {
             stateMachine.SetState(stateMachine.GetState<CrouchingNode>());
@@ -29,6 +29,13 @@ public class IdleNode : StateNode
         if (moveDir != 0f)
         {
             stateMachine.SetState(stateMachine.GetState<WalkingNode>());
+            return;
+        }
+        //~~~~~~~~~~~~~//
+        if (playerInput.actions["Jab"].WasPressedThisFrame())
+        {
+            stateMachine.SetState(stateMachine.GetState<AttackingNode>());
+            return;
         }
     }
 }

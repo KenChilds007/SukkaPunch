@@ -1,0 +1,3681 @@
+fileFormatVersion: 2
+guid: 543fd32dfc4e74e07bb271b1b510c943
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8892470473326529215
+    second: BalrogSprites-spritesheet-even_0
+  - first:
+      213: -7156125914828049369
+    second: BalrogSprites-spritesheet-even_1
+  - first:
+      213: -500709596485335922
+    second: BalrogSprites-spritesheet-even_2
+  - first:
+      213: -732285139277537200
+    second: BalrogSprites-spritesheet-even_3
+  - first:
+      213: -3413953059820371379
+    second: BalrogSprites-spritesheet-even_4
+  - first:
+      213: 725975077564260056
+    second: BalrogSprites-spritesheet-even_5
+  - first:
+      213: -2204148003614049758
+    second: BalrogSprites-spritesheet-even_6
+  - first:
+      213: 2029464996014073762
+    second: BalrogSprites-spritesheet-even_7
+  - first:
+      213: -9068068609289628341
+    second: BalrogSprites-spritesheet-even_8
+  - first:
+      213: 8860114053517784888
+    second: BalrogSprites-spritesheet-even_9
+  - first:
+      213: -673331552878825353
+    second: BalrogSprites-spritesheet-even_10
+  - first:
+      213: -4566944212297338792
+    second: BalrogSprites-spritesheet-even_11
+  - first:
+      213: 8516073539249118730
+    second: BalrogSprites-spritesheet-even_12
+  - first:
+      213: 3152851834031608980
+    second: BalrogSprites-spritesheet-even_13
+  - first:
+      213: -5079427814569738133
+    second: BalrogSprites-spritesheet-even_14
+  - first:
+      213: -7385158804014640723
+    second: BalrogSprites-spritesheet-even_15
+  - first:
+      213: -8706462760798228395
+    second: BalrogSprites-spritesheet-even_16
+  - first:
+      213: -2270210967658209901
+    second: BalrogSprites-spritesheet-even_17
+  - first:
+      213: -7231590052355187785
+    second: BalrogSprites-spritesheet-even_18
+  - first:
+      213: 2660051666770549630
+    second: BalrogSprites-spritesheet-even_19
+  - first:
+      213: -5475131001568794076
+    second: BalrogSprites-spritesheet-even_20
+  - first:
+      213: -6522975717151504162
+    second: BalrogSprites-spritesheet-even_21
+  - first:
+      213: -5727354657034699868
+    second: BalrogSprites-spritesheet-even_22
+  - first:
+      213: -7451459267817037204
+    second: BalrogSprites-spritesheet-even_23
+  - first:
+      213: 3403240081242857071
+    second: BalrogSprites-spritesheet-even_24
+  - first:
+      213: 2532885273539112420
+    second: BalrogSprites-spritesheet-even_25
+  - first:
+      213: 5545075303966315107
+    second: BalrogSprites-spritesheet-even_26
+  - first:
+      213: 4562140752406872163
+    second: BalrogSprites-spritesheet-even_27
+  - first:
+      213: 9125613797201565895
+    second: BalrogSprites-spritesheet-even_28
+  - first:
+      213: 8876588301210332740
+    second: BalrogSprites-spritesheet-even_29
+  - first:
+      213: -4106888890741460505
+    second: BalrogSprites-spritesheet-even_30
+  - first:
+      213: -3495572995010566547
+    second: BalrogSprites-spritesheet-even_31
+  - first:
+      213: 5203673623206624528
+    second: BalrogSprites-spritesheet-even_32
+  - first:
+      213: -2591925282734956193
+    second: BalrogSprites-spritesheet-even_33
+  - first:
+      213: 5884196466858361226
+    second: BalrogSprites-spritesheet-even_34
+  - first:
+      213: -1205191648377965864
+    second: BalrogSprites-spritesheet-even_35
+  - first:
+      213: 5283898297484124016
+    second: BalrogSprites-spritesheet-even_36
+  - first:
+      213: -2182449169644066079
+    second: BalrogSprites-spritesheet-even_37
+  - first:
+      213: -4507332080413257094
+    second: BalrogSprites-spritesheet-even_38
+  - first:
+      213: 7164692232721840323
+    second: BalrogSprites-spritesheet-even_39
+  - first:
+      213: -1373177788135264694
+    second: BalrogSprites-spritesheet-even_40
+  - first:
+      213: 2270869152343555637
+    second: BalrogSprites-spritesheet-even_41
+  - first:
+      213: -6326878966876194371
+    second: BalrogSprites-spritesheet-even_42
+  - first:
+      213: 686080503547360455
+    second: BalrogSprites-spritesheet-even_43
+  - first:
+      213: -6891829434536926725
+    second: BalrogSprites-spritesheet-even_44
+  - first:
+      213: 1806793473699705539
+    second: BalrogSprites-spritesheet-even_45
+  - first:
+      213: -5866648453898474299
+    second: BalrogSprites-spritesheet-even_46
+  - first:
+      213: 6682521118766858280
+    second: BalrogSprites-spritesheet-even_47
+  - first:
+      213: -913187177527098683
+    second: BalrogSprites-spritesheet-even_48
+  - first:
+      213: 802551419371142920
+    second: BalrogSprites-spritesheet-even_49
+  - first:
+      213: 5601027448901832316
+    second: BalrogSprites-spritesheet-even_50
+  - first:
+      213: -6424486151760193101
+    second: BalrogSprites-spritesheet-even_51
+  - first:
+      213: -512455631897403383
+    second: BalrogSprites-spritesheet-even_52
+  - first:
+      213: -8165012601043878507
+    second: BalrogSprites-spritesheet-even_53
+  - first:
+      213: -2737813950215667713
+    second: BalrogSprites-spritesheet-even_54
+  - first:
+      213: -2288894914786920957
+    second: BalrogSprites-spritesheet-even_55
+  - first:
+      213: 6430352464168463508
+    second: BalrogSprites-spritesheet-even_56
+  - first:
+      213: 6637776609338637096
+    second: BalrogSprites-spritesheet-even_57
+  - first:
+      213: -6589399679213144816
+    second: BalrogSprites-spritesheet-even_58
+  - first:
+      213: -4202158717642141674
+    second: BalrogSprites-spritesheet-even_59
+  - first:
+      213: -4702505581577503314
+    second: BalrogSprites-spritesheet-even_60
+  - first:
+      213: -7978254361967196545
+    second: BalrogSprites-spritesheet-even_61
+  - first:
+      213: 7083357526504919953
+    second: BalrogSprites-spritesheet-even_62
+  - first:
+      213: 8210059781966259817
+    second: BalrogSprites-spritesheet-even_63
+  - first:
+      213: -4555594035048261654
+    second: BalrogSprites-spritesheet-even_64
+  - first:
+      213: 6710156891285818989
+    second: BalrogSprites-spritesheet-even_65
+  - first:
+      213: 91142954505059577
+    second: BalrogSprites-spritesheet-even_66
+  - first:
+      213: -6996159429480409888
+    second: BalrogSprites-spritesheet-even_67
+  - first:
+      213: 7480262023106693153
+    second: BalrogSprites-spritesheet-even_68
+  - first:
+      213: -1892262298380229268
+    second: BalrogSprites-spritesheet-even_69
+  - first:
+      213: 8372472273444726972
+    second: BalrogSprites-spritesheet-even_70
+  - first:
+      213: -6177833494938782687
+    second: BalrogSprites-spritesheet-even_71
+  - first:
+      213: -7930558662149571751
+    second: BalrogSprites-spritesheet-even_72
+  - first:
+      213: -4857013942297999456
+    second: BalrogSprites-spritesheet-even_73
+  - first:
+      213: 4694337410076581101
+    second: BalrogSprites-spritesheet-even_74
+  - first:
+      213: 933602947815177072
+    second: BalrogSprites-spritesheet-even_75
+  - first:
+      213: -3612507709105111492
+    second: BalrogSprites-spritesheet-even_76
+  - first:
+      213: -7590488077857545802
+    second: BalrogSprites-spritesheet-even_77
+  - first:
+      213: -2921035060722676903
+    second: BalrogSprites-spritesheet-even_78
+  - first:
+      213: -7184838053362215777
+    second: BalrogSprites-spritesheet-even_79
+  - first:
+      213: 6563380720214383143
+    second: BalrogSprites-spritesheet-even_80
+  - first:
+      213: 5184586468981553984
+    second: BalrogSprites-spritesheet-even_81
+  - first:
+      213: -4210742694572116945
+    second: BalrogSprites-spritesheet-even_82
+  - first:
+      213: 1487363703826498592
+    second: BalrogSprites-spritesheet-even_83
+  - first:
+      213: 4749067584752047227
+    second: BalrogSprites-spritesheet-even_84
+  - first:
+      213: 6659620348710868210
+    second: BalrogSprites-spritesheet-even_85
+  - first:
+      213: 8447542624928108716
+    second: BalrogSprites-spritesheet-even_86
+  - first:
+      213: -8595358908720356762
+    second: BalrogSprites-spritesheet-even_87
+  - first:
+      213: -2374370393857980375
+    second: BalrogSprites-spritesheet-even_88
+  - first:
+      213: -7164439821459070473
+    second: BalrogSprites-spritesheet-even_89
+  - first:
+      213: -5473219134482145687
+    second: BalrogSprites-spritesheet-even_90
+  - first:
+      213: 4042152257675164282
+    second: BalrogSprites-spritesheet-even_91
+  - first:
+      213: -2839032176251911001
+    second: BalrogSprites-spritesheet-even_92
+  - first:
+      213: 6033440712875452915
+    second: BalrogSprites-spritesheet-even_93
+  - first:
+      213: 5927502759883984853
+    second: BalrogSprites-spritesheet-even_94
+  - first:
+      213: 8112703538205291272
+    second: BalrogSprites-spritesheet-even_95
+  - first:
+      213: -5024043585018136051
+    second: BalrogSprites-spritesheet-even_96
+  - first:
+      213: 9170303336729620275
+    second: BalrogSprites-spritesheet-even_97
+  - first:
+      213: -7155709998834924177
+    second: BalrogSprites-spritesheet-even_98
+  - first:
+      213: -2912860315402185708
+    second: BalrogSprites-spritesheet-even_99
+  - first:
+      213: 5718286258264024369
+    second: BalrogSprites-spritesheet-even_100
+  - first:
+      213: 4242229515316733053
+    second: BalrogSprites-spritesheet-even_101
+  - first:
+      213: 1658500169370577108
+    second: BalrogSprites-spritesheet-even_102
+  - first:
+      213: 5447830620182867278
+    second: BalrogSprites-spritesheet-even_103
+  - first:
+      213: 6877916821706135644
+    second: BalrogSprites-spritesheet-even_104
+  - first:
+      213: 7370208796488390529
+    second: BalrogSprites-spritesheet-even_105
+  - first:
+      213: 4571950496736711557
+    second: BalrogSprites-spritesheet-even_106
+  - first:
+      213: -5721290865546529623
+    second: BalrogSprites-spritesheet-even_107
+  - first:
+      213: 9019612147648911570
+    second: BalrogSprites-spritesheet-even_108
+  - first:
+      213: -3063003062507090132
+    second: BalrogSprites-spritesheet-even_109
+  - first:
+      213: -1837537503914287244
+    second: BalrogSprites-spritesheet-even_110
+  - first:
+      213: -6910226432288339091
+    second: BalrogSprites-spritesheet-even_111
+  - first:
+      213: 3958389550402534007
+    second: BalrogSprites-spritesheet-even_112
+  - first:
+      213: -6818614611445665991
+    second: BalrogSprites-spritesheet-even_113
+  - first:
+      213: 9180220420945858266
+    second: BalrogSprites-spritesheet-even_114
+  - first:
+      213: 2730796458069740590
+    second: BalrogSprites-spritesheet-even_115
+  - first:
+      213: -3132889774773310546
+    second: BalrogSprites-spritesheet-even_116
+  - first:
+      213: 7258072581337174722
+    second: BalrogSprites-spritesheet-even_117
+  - first:
+      213: -3429316664556324570
+    second: BalrogSprites-spritesheet-even_118
+  - first:
+      213: 1652754225224885593
+    second: BalrogSprites-spritesheet-even_119
+  - first:
+      213: 8646659310452006943
+    second: BalrogSprites-spritesheet-even_120
+  - first:
+      213: 6021034407199875337
+    second: BalrogSprites-spritesheet-even_121
+  - first:
+      213: -27212304564204919
+    second: BalrogSprites-spritesheet-even_122
+  - first:
+      213: 3789289568707878336
+    second: BalrogSprites-spritesheet-even_123
+  - first:
+      213: 6766291715051835548
+    second: BalrogSprites-spritesheet-even_124
+  - first:
+      213: 4540791635716110708
+    second: BalrogSprites-spritesheet-even_125
+  - first:
+      213: -8659254593804340715
+    second: BalrogSprites-spritesheet-even_126
+  - first:
+      213: -2235185966836920650
+    second: BalrogSprites-spritesheet-even_127
+  - first:
+      213: -9090655351424139567
+    second: BalrogSprites-spritesheet-even_128
+  - first:
+      213: -8914358630520628195
+    second: BalrogSprites-spritesheet-even_129
+  - first:
+      213: 8520246308799648187
+    second: BalrogSprites-spritesheet-even_130
+  - first:
+      213: 5095235830591254521
+    second: BalrogSprites-spritesheet-even_131
+  - first:
+      213: -2441212664639437276
+    second: BalrogSprites-spritesheet-even_132
+  - first:
+      213: -1551407993169121894
+    second: BalrogSprites-spritesheet-even_133
+  - first:
+      213: 1775265037638684793
+    second: BalrogSprites-spritesheet-even_134
+  - first:
+      213: -6747235730901533569
+    second: BalrogSprites-spritesheet-even_135
+  - first:
+      213: -5585706369000042050
+    second: BalrogSprites-spritesheet-even_136
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145f8b50839979480800000000000000
+      internalID: -8892470473326529215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1408
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724f4be256550bc90800000000000000
+      internalID: -7156125914828049369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1408
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84ccdd564f1d09f0800000000000000
+      internalID: -500709596485335922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1408
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050a01fab8666d5f0800000000000000
+      internalID: -732285139277537200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1408
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d428c8da7c33f90d0800000000000000
+      internalID: -3413953059820371379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_5
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1408
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de11069c7e231a00800000000000000
+      internalID: 725975077564260056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_6
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1408
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ab23c911b4961e0800000000000000
+      internalID: -2204148003614049758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_7
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1408
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7228b49ab1a2c10800000000000000
+      internalID: 2029464996014073762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_8
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1408
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45db6005afb72280800000000000000
+      internalID: -9068068609289628341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_9
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1408
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837bf5de9c275fa70800000000000000
+      internalID: 8860114053517784888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_10
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1408
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77078962588d7a6f0800000000000000
+      internalID: -673331552878825353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_11
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1408
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850bdf48f64fe90c0800000000000000
+      internalID: -4566944212297338792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e1c0c83cb2f2670800000000000000
+      internalID: 8516073539249118730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1280
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49494ecd90e21cb20800000000000000
+      internalID: 3152851834031608980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_14
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1280
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60055a805f3289b0800000000000000
+      internalID: -5079427814569738133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_15
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1280
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1dbdc2235a28990800000000000000
+      internalID: -7385158804014640723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_16
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1280
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55074747f3e6c2780800000000000000
+      internalID: -8706462760798228395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_17
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1280
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d598b27279e70e0800000000000000
+      internalID: -2270210967658209901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_18
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1280
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbde18792b34ab90800000000000000
+      internalID: -7231590052355187785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_19
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1280
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b5b0ab5e66ae420800000000000000
+      internalID: 2660051666770549630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_20
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1280
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a63c0dc5d6404b0800000000000000
+      internalID: -5475131001568794076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_21
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1280
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed88fac352cb975a0800000000000000
+      internalID: -6522975717151504162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_22
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1280
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab74c4c8495480b0800000000000000
+      internalID: -5727354657034699868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_23
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1280
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6229738649179890800000000000000
+      internalID: -7451459267817037204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e1adf92dcba3f20800000000000000
+      internalID: 3403240081242857071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1152
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eded1a8cbd962320800000000000000
+      internalID: 2532885273539112420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_26
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1152
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36214b12c9014fc40800000000000000
+      internalID: 5545075303966315107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_27
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1152
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3608b82d7daff4f30800000000000000
+      internalID: 4562140752406872163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_28
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1152
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c85a932661b4ae70800000000000000
+      internalID: 9125613797201565895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_29
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1152
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ea70f970aff2b70800000000000000
+      internalID: 8876588301210332740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_30
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1152
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e17b5720566107c0800000000000000
+      internalID: -4106888890741460505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_31
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1152
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6662f1a1ea3d7fc0800000000000000
+      internalID: -3495572995010566547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_32
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1152
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dfc4e0799273840800000000000000
+      internalID: 5203673623206624528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_33
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1152
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51aa3e10b1a70cd0800000000000000
+      internalID: -2591925282734956193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_34
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1152
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8183b3c28dd8a150800000000000000
+      internalID: 5884196466858361226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_35
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1152
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2f928c49c464fe0800000000000000
+      internalID: -1205191648377965864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f15da918d245940800000000000000
+      internalID: 5283898297484124016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_37
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1024
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eae4071b0266b1e0800000000000000
+      internalID: -2182449169644066079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1024
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72de3e8a5db271c0800000000000000
+      internalID: -4507332080413257094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_39
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1024
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8b26020a91e6360800000000000000
+      internalID: 7164692232721840323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_40
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1024
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4eadbcb31e71fce0800000000000000
+      internalID: -1373177788135264694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_41
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1024
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e74d4667fb38f10800000000000000
+      internalID: 2270869152343555637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_42
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1024
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db93472d9196238a0800000000000000
+      internalID: -6326878966876194371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_43
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1024
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4f24d3592758900800000000000000
+      internalID: 686080503547360455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_44
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1024
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf168ddc4ad4b50a0800000000000000
+      internalID: -6891829434536926725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_45
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1024
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c27d5e6715031910800000000000000
+      internalID: 1806793473699705539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_46
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1024
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc6943605a759ea0800000000000000
+      internalID: -5866648453898474299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_47
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1024
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82005205d851dbc50800000000000000
+      internalID: 6682521118766858280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c24e0ea915b353f0800000000000000
+      internalID: -913187177527098683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_49
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 896
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f3a99834c332b00800000000000000
+      internalID: 802551419371142920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_50
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 896
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e810d0ac8dabd40800000000000000
+      internalID: 5601027448901832316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_51
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 896
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9dae322e3a7d6a0800000000000000
+      internalID: -6424486151760193101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_52
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 896
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9006b91615463e8f0800000000000000
+      internalID: -512455631897403383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_53
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 896
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59df038ac4c00be80800000000000000
+      internalID: -8165012601043878507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_54
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 896
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff3944c7b4510ad0800000000000000
+      internalID: -2737813950215667713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_55
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 896
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3067debb3363c30e0800000000000000
+      internalID: -2288894914786920957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_56
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 896
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ca1572f733d3950800000000000000
+      internalID: 6430352464168463508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_57
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 896
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bb60268ae1e1c50800000000000000
+      internalID: 6637776609338637096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_58
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 896
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0157d6567efbd84a0800000000000000
+      internalID: -6589399679213144816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_59
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 896
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610112909eeeea5c0800000000000000
+      internalID: -4202158717642141674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadf7c7a6185dbeb0800000000000000
+      internalID: -4702505581577503314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_61
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 768
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f760c3badeb874190800000000000000
+      internalID: -7978254361967196545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_62
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 768
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1935a6024242d4260800000000000000
+      internalID: 7083357526504919953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_63
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 768
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966e1d87fddffe170800000000000000
+      internalID: 8210059781966259817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_64
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 768
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae75f089c5747c0c0800000000000000
+      internalID: -4555594035048261654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_65
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 768
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e0b3404244f1d50800000000000000
+      internalID: 6710156891285818989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_66
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 768
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcbd03c80ec34100800000000000000
+      internalID: 91142954505059577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_67
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 768
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e412dde016a8ee90800000000000000
+      internalID: -6996159429480409888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_68
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 768
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1288e1a8daa3fc760800000000000000
+      internalID: 7480262023106693153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_69
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 768
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65ae2b17755db5e0800000000000000
+      internalID: -1892262298380229268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_70
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 768
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8ea766c2ff03470800000000000000
+      internalID: 8372472273444726972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_71
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 768
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124f9acfa2de34aa0800000000000000
+      internalID: -6177833494938782687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b7d282aeef0f190800000000000000
+      internalID: -7930558662149571751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_73
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 640
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a745349d8b689cb0800000000000000
+      internalID: -4857013942297999456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_74
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 640
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec1177b003a52140800000000000000
+      internalID: 4694337410076581101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_75
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 640
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bf7c14fe2d4fc00800000000000000
+      internalID: 933602947815177072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_76
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 640
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3efd62e06bcdddc0800000000000000
+      internalID: -3612507709105111492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_77
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 640
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1a67f2f4b29a690800000000000000
+      internalID: -7590488077857545802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_78
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 640
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bc92da6166677d0800000000000000
+      internalID: -2921035060722676903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_79
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 640
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94d2ac7bd35a4c90800000000000000
+      internalID: -7184838053362215777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_80
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 640
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a9602adffc51b50800000000000000
+      internalID: 6563380720214383143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_81
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 640
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b31f6ace953f740800000000000000
+      internalID: 5184586468981553984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_82
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 640
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24357924df6095c0800000000000000
+      internalID: -4210742694572116945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_83
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 640
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0244362886d24a410800000000000000
+      internalID: 1487363703826498592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74d7738ec318e140800000000000000
+      internalID: 4749067584752047227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_85
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 512
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4dfd74c69bb6c50800000000000000
+      internalID: 6659620348710868210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_86
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 512
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca09fc7a243bb3570800000000000000
+      internalID: 8447542624928108716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_87
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 512
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662ebb8dc9627b880800000000000000
+      internalID: -8595358908720356762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_88
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 512
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92804ece4ba8c0fd0800000000000000
+      internalID: -2374370393857980375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_89
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 512
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1e443f0fbc29c90800000000000000
+      internalID: -7164439821459070473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_90
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 512
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e125f02383b04b0800000000000000
+      internalID: -5473219134482145687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_91
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 512
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a75c6ef0c981830800000000000000
+      internalID: 4042152257675164282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_92
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 512
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4c99c074bb998d0800000000000000
+      internalID: -2839032176251911001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_93
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 512
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f92250ac561bb350800000000000000
+      internalID: 6033440712875452915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_94
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 512
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df4808da58b24250800000000000000
+      internalID: 5927502759883984853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_95
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 512
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803f7c292ec169070800000000000000
+      internalID: 8112703538205291272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0af9ea5af2074ab0800000000000000
+      internalID: -5024043585018136051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_97
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 384
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f29546c46734f70800000000000000
+      internalID: 9170303336729620275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_98
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 384
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65cbbb2bafc1bc90800000000000000
+      internalID: -7155709998834924177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_99
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 384
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414de14e9f07397d0800000000000000
+      internalID: -2912860315402185708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_100
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 384
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13523db1e0f6b5f40800000000000000
+      internalID: 5718286258264024369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_101
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 384
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74a124944d6fda30800000000000000
+      internalID: 4242229515316733053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_102
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 384
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8224fed1d240710800000000000000
+      internalID: 1658500169370577108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_103
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 384
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dee70d5159a9b40800000000000000
+      internalID: 5447830620182867278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_104
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 384
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c585a7898e4437f50800000000000000
+      internalID: 6877916821706135644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_105
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 384
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1875623f9dd384660800000000000000
+      internalID: 7370208796488390529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_106
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 384
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58399a8e0c4d27f30800000000000000
+      internalID: 4571950496736711557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_107
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 384
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4796e3544e990b0800000000000000
+      internalID: -5721290865546529623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d85968d5791c2d70800000000000000
+      internalID: 9019612147648911570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_109
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 256
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fc45171f60e75d0800000000000000
+      internalID: -3063003062507090132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_110
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 256
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f1bb93061cf76e0800000000000000
+      internalID: -1837537503914287244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_111
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 256
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b40f9fba1f910a0800000000000000
+      internalID: -6910226432288339091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_112
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 256
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a7c5ad2560fe630800000000000000
+      internalID: 3958389550402534007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_113
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 256
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f2e70332a6f51a0800000000000000
+      internalID: -6818614611445665991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_114
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 256
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adec34e75d1b66f70800000000000000
+      internalID: 9180220420945858266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_115
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 256
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c442509ecb5e520800000000000000
+      internalID: 2730796458069740590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_116
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 256
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabee2e395db584d0800000000000000
+      internalID: -3132889774773310546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_117
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 256
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2da9cce8ad9b460800000000000000
+      internalID: 7258072581337174722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_118
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 256
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629fac2b9ae9860d0800000000000000
+      internalID: -3429316664556324570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_119
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 256
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9552e8f0633cfe610800000000000000
+      internalID: 1652754225224885593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10e055b4da1ff770800000000000000
+      internalID: 8646659310452006943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_121
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 128
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901ad8d74e20f8350800000000000000
+      internalID: 6021034407199875337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_122
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 128
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a4eec9d825f9ff0800000000000000
+      internalID: -27212304564204919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_123
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 128
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd1de549c2469430800000000000000
+      internalID: 3789289568707878336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_124
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 128
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90555a2772b6ed50800000000000000
+      internalID: 6766291715051835548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_125
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 128
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4797ced3fe1240f30800000000000000
+      internalID: 4540791635716110708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_126
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 128
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5127f9c53d524d780800000000000000
+      internalID: -8659254593804340715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_127
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 128
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be4fb7a4360bf0e0800000000000000
+      internalID: -2235185966836920650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_128
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 128
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de3cda4f1187d180800000000000000
+      internalID: -9090655351424139567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_129
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 128
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c516b4e06d94480800000000000000
+      internalID: -8914358630520628195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_130
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 128
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb116da20eefd3670800000000000000
+      internalID: 8520246308799648187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_131
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 128
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffeb310ef9e5b640800000000000000
+      internalID: 5095235830591254521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4264bfef3021f1ed0800000000000000
+      internalID: -2441212664639437276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_133
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9de37166aa487ae0800000000000000
+      internalID: -1551407993169121894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_134
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970df9e552203a810800000000000000
+      internalID: 1775265037638684793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_135
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 0
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c7ac3e9d00d52a0800000000000000
+      internalID: -6747235730901533569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalrogSprites-spritesheet-even_136
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 0
+        width: 184
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb19d18d6a59b72b0800000000000000
+      internalID: -5585706369000042050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 481b030700936469cb5061a703062bec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":12.0,"y":12.0},"gridSpriteSize":{"x":184.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.10000000149011612},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BalrogSprites-spritesheet-even_0: -8892470473326529215
+      BalrogSprites-spritesheet-even_1: -7156125914828049369
+      BalrogSprites-spritesheet-even_10: -673331552878825353
+      BalrogSprites-spritesheet-even_100: 5718286258264024369
+      BalrogSprites-spritesheet-even_101: 4242229515316733053
+      BalrogSprites-spritesheet-even_102: 1658500169370577108
+      BalrogSprites-spritesheet-even_103: 5447830620182867278
+      BalrogSprites-spritesheet-even_104: 6877916821706135644
+      BalrogSprites-spritesheet-even_105: 7370208796488390529
+      BalrogSprites-spritesheet-even_106: 4571950496736711557
+      BalrogSprites-spritesheet-even_107: -5721290865546529623
+      BalrogSprites-spritesheet-even_108: 9019612147648911570
+      BalrogSprites-spritesheet-even_109: -3063003062507090132
+      BalrogSprites-spritesheet-even_11: -4566944212297338792
+      BalrogSprites-spritesheet-even_110: -1837537503914287244
+      BalrogSprites-spritesheet-even_111: -6910226432288339091
+      BalrogSprites-spritesheet-even_112: 3958389550402534007
+      BalrogSprites-spritesheet-even_113: -6818614611445665991
+      BalrogSprites-spritesheet-even_114: 9180220420945858266
+      BalrogSprites-spritesheet-even_115: 2730796458069740590
+      BalrogSprites-spritesheet-even_116: -3132889774773310546
+      BalrogSprites-spritesheet-even_117: 7258072581337174722
+      BalrogSprites-spritesheet-even_118: -3429316664556324570
+      BalrogSprites-spritesheet-even_119: 1652754225224885593
+      BalrogSprites-spritesheet-even_12: 8516073539249118730
+      BalrogSprites-spritesheet-even_120: 8646659310452006943
+      BalrogSprites-spritesheet-even_121: 6021034407199875337
+      BalrogSprites-spritesheet-even_122: -27212304564204919
+      BalrogSprites-spritesheet-even_123: 3789289568707878336
+      BalrogSprites-spritesheet-even_124: 6766291715051835548
+      BalrogSprites-spritesheet-even_125: 4540791635716110708
+      BalrogSprites-spritesheet-even_126: -8659254593804340715
+      BalrogSprites-spritesheet-even_127: -2235185966836920650
+      BalrogSprites-spritesheet-even_128: -9090655351424139567
+      BalrogSprites-spritesheet-even_129: -8914358630520628195
+      BalrogSprites-spritesheet-even_13: 3152851834031608980
+      BalrogSprites-spritesheet-even_130: 8520246308799648187
+      BalrogSprites-spritesheet-even_131: 5095235830591254521
+      BalrogSprites-spritesheet-even_132: -2441212664639437276
+      BalrogSprites-spritesheet-even_133: -1551407993169121894
+      BalrogSprites-spritesheet-even_134: 1775265037638684793
+      BalrogSprites-spritesheet-even_135: -6747235730901533569
+      BalrogSprites-spritesheet-even_136: -5585706369000042050
+      BalrogSprites-spritesheet-even_14: -5079427814569738133
+      BalrogSprites-spritesheet-even_15: -7385158804014640723
+      BalrogSprites-spritesheet-even_16: -8706462760798228395
+      BalrogSprites-spritesheet-even_17: -2270210967658209901
+      BalrogSprites-spritesheet-even_18: -7231590052355187785
+      BalrogSprites-spritesheet-even_19: 2660051666770549630
+      BalrogSprites-spritesheet-even_2: -500709596485335922
+      BalrogSprites-spritesheet-even_20: -5475131001568794076
+      BalrogSprites-spritesheet-even_21: -6522975717151504162
+      BalrogSprites-spritesheet-even_22: -5727354657034699868
+      BalrogSprites-spritesheet-even_23: -7451459267817037204
+      BalrogSprites-spritesheet-even_24: 3403240081242857071
+      BalrogSprites-spritesheet-even_25: 2532885273539112420
+      BalrogSprites-spritesheet-even_26: 5545075303966315107
+      BalrogSprites-spritesheet-even_27: 4562140752406872163
+      BalrogSprites-spritesheet-even_28: 9125613797201565895
+      BalrogSprites-spritesheet-even_29: 8876588301210332740
+      BalrogSprites-spritesheet-even_3: -732285139277537200
+      BalrogSprites-spritesheet-even_30: -4106888890741460505
+      BalrogSprites-spritesheet-even_31: -3495572995010566547
+      BalrogSprites-spritesheet-even_32: 5203673623206624528
+      BalrogSprites-spritesheet-even_33: -2591925282734956193
+      BalrogSprites-spritesheet-even_34: 5884196466858361226
+      BalrogSprites-spritesheet-even_35: -1205191648377965864
+      BalrogSprites-spritesheet-even_36: 5283898297484124016
+      BalrogSprites-spritesheet-even_37: -2182449169644066079
+      BalrogSprites-spritesheet-even_38: -4507332080413257094
+      BalrogSprites-spritesheet-even_39: 7164692232721840323
+      BalrogSprites-spritesheet-even_4: -3413953059820371379
+      BalrogSprites-spritesheet-even_40: -1373177788135264694
+      BalrogSprites-spritesheet-even_41: 2270869152343555637
+      BalrogSprites-spritesheet-even_42: -6326878966876194371
+      BalrogSprites-spritesheet-even_43: 686080503547360455
+      BalrogSprites-spritesheet-even_44: -6891829434536926725
+      BalrogSprites-spritesheet-even_45: 1806793473699705539
+      BalrogSprites-spritesheet-even_46: -5866648453898474299
+      BalrogSprites-spritesheet-even_47: 6682521118766858280
+      BalrogSprites-spritesheet-even_48: -913187177527098683
+      BalrogSprites-spritesheet-even_49: 802551419371142920
+      BalrogSprites-spritesheet-even_5: 725975077564260056
+      BalrogSprites-spritesheet-even_50: 5601027448901832316
+      BalrogSprites-spritesheet-even_51: -6424486151760193101
+      BalrogSprites-spritesheet-even_52: -512455631897403383
+      BalrogSprites-spritesheet-even_53: -8165012601043878507
+      BalrogSprites-spritesheet-even_54: -2737813950215667713
+      BalrogSprites-spritesheet-even_55: -2288894914786920957
+      BalrogSprites-spritesheet-even_56: 6430352464168463508
+      BalrogSprites-spritesheet-even_57: 6637776609338637096
+      BalrogSprites-spritesheet-even_58: -6589399679213144816
+      BalrogSprites-spritesheet-even_59: -4202158717642141674
+      BalrogSprites-spritesheet-even_6: -2204148003614049758
+      BalrogSprites-spritesheet-even_60: -4702505581577503314
+      BalrogSprites-spritesheet-even_61: -7978254361967196545
+      BalrogSprites-spritesheet-even_62: 7083357526504919953
+      BalrogSprites-spritesheet-even_63: 8210059781966259817
+      BalrogSprites-spritesheet-even_64: -4555594035048261654
+      BalrogSprites-spritesheet-even_65: 6710156891285818989
+      BalrogSprites-spritesheet-even_66: 91142954505059577
+      BalrogSprites-spritesheet-even_67: -6996159429480409888
+      BalrogSprites-spritesheet-even_68: 7480262023106693153
+      BalrogSprites-spritesheet-even_69: -1892262298380229268
+      BalrogSprites-spritesheet-even_7: 2029464996014073762
+      BalrogSprites-spritesheet-even_70: 8372472273444726972
+      BalrogSprites-spritesheet-even_71: -6177833494938782687
+      BalrogSprites-spritesheet-even_72: -7930558662149571751
+      BalrogSprites-spritesheet-even_73: -4857013942297999456
+      BalrogSprites-spritesheet-even_74: 4694337410076581101
+      BalrogSprites-spritesheet-even_75: 933602947815177072
+      BalrogSprites-spritesheet-even_76: -3612507709105111492
+      BalrogSprites-spritesheet-even_77: -7590488077857545802
+      BalrogSprites-spritesheet-even_78: -2921035060722676903
+      BalrogSprites-spritesheet-even_79: -7184838053362215777
+      BalrogSprites-spritesheet-even_8: -9068068609289628341
+      BalrogSprites-spritesheet-even_80: 6563380720214383143
+      BalrogSprites-spritesheet-even_81: 5184586468981553984
+      BalrogSprites-spritesheet-even_82: -4210742694572116945
+      BalrogSprites-spritesheet-even_83: 1487363703826498592
+      BalrogSprites-spritesheet-even_84: 4749067584752047227
+      BalrogSprites-spritesheet-even_85: 6659620348710868210
+      BalrogSprites-spritesheet-even_86: 8447542624928108716
+      BalrogSprites-spritesheet-even_87: -8595358908720356762
+      BalrogSprites-spritesheet-even_88: -2374370393857980375
+      BalrogSprites-spritesheet-even_89: -7164439821459070473
+      BalrogSprites-spritesheet-even_9: 8860114053517784888
+      BalrogSprites-spritesheet-even_90: -5473219134482145687
+      BalrogSprites-spritesheet-even_91: 4042152257675164282
+      BalrogSprites-spritesheet-even_92: -2839032176251911001
+      BalrogSprites-spritesheet-even_93: 6033440712875452915
+      BalrogSprites-spritesheet-even_94: 5927502759883984853
+      BalrogSprites-spritesheet-even_95: 8112703538205291272
+      BalrogSprites-spritesheet-even_96: -5024043585018136051
+      BalrogSprites-spritesheet-even_97: 9170303336729620275
+      BalrogSprites-spritesheet-even_98: -7155709998834924177
+      BalrogSprites-spritesheet-even_99: -2912860315402185708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
